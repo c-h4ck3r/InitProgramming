@@ -1,4 +1,4 @@
-<h3 align="left">
+<h3 align="center">
     History Of Text,Calculators,Storage 
 </h3>
 <h2 align="left"> Text </h2>
