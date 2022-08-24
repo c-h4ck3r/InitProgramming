@@ -41,4 +41,6 @@ For more details see cfdisk(8).
       Display or manipulate a disk partition table.
       Options:
       -L, --color[=<when>]     colorize output (auto, always or never)
-                               colors are enabled by default
+                               colors are enabled by default <br>
+       -z, --zero               start with zeroed partition table<br>
+     --lock[=<mode>]      use exclusive device lock (yes, no or nonblock)
