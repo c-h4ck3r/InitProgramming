@@ -13,14 +13,14 @@ The fdisk utility is the classical text-mode utility. The cfdisk utilitity gives
   <p align= "center">
          Display or manipulate a disk partition table
       
- 
+ </p>
 
 
 
 
       
       
-      </p> 
+      
       root@kali:~# cfdisk -h
       Usage: cfdisk [options] <disk>
       
