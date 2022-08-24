@@ -8,16 +8,15 @@
 The utilities included in this package allow you to partition your hard disk. The utilities supports both modern and legacy partition tables (eg. GPT, MBR, etc).
 
 The fdisk utility is the classical text-mode utility. The cfdisk utilitity gives a more userfriendly curses based interface. The sfdisk utility is mostly for automation and scripting uses.
-      <p align="center">the main purpose is :- Manipulate disk partition table </p>
+      <p align="center">the main purpose is :- Display or  manipulate a disk partition table. </p>
 </p>
 
-root@kali:~# fdisk -h
 
-Usage:
- fdisk [options] <disk>         change partition table
- fdisk [options] -l [<disk>...] list partition table(s)
+          root@kali:~# fdisk -h
+          Usage: fdisk [options] <disk>         change partition table
+          fdisk [options] -l [<disk>...] list partition table(s)
 
-Display or manipulate a disk partition table.
+
 
 
 
