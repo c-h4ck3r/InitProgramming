@@ -14,7 +14,7 @@ The fdisk utility is the classical text-mode utility. The cfdisk utilitity gives
          Display or manipulate a disk partition table
       
  
- root@kali:~# cfdisk -h
+## root@kali:~# cfdisk -h
 
 Usage:
  cfdisk [options] <disk>
@@ -32,4 +32,6 @@ Options:
  -V, --version            display version
 
 For more details see cfdisk(8).
+      
+      
       </p>
