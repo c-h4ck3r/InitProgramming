@@ -36,5 +36,7 @@ For more details see cfdisk(8).
       
       </p> 
       root@kali:~# cfdisk -h
-      Usage:
- cfdisk [options] <disk>
+      Usage: cfdisk [options] <disk>
+      
+      Display or manipulate a disk partition table.
+ 
