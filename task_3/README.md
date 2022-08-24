@@ -39,4 +39,12 @@ For more details see cfdisk(8).
       Usage: cfdisk [options] <disk>
       
       Display or manipulate a disk partition table.
- 
+      Options:
+ -L, --color[=<when>]     colorize output (auto, always or never)
+                            colors are enabled by default
+ -z, --zero               start with zeroed partition table
+     --lock[=<mode>]      use exclusive device lock (yes, no or nonblock)
+ -r, --read-only          forced open cfdisk in read-only mode
+
+ -h, --help               display this help
+ -V, --version            display version
