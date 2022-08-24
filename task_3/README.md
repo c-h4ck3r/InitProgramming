@@ -34,4 +34,7 @@ Options:
 For more details see cfdisk(8).
       
       
-      </p>
+      </p> 
+      root@kali:~# cfdisk -h
+      Usage:
+ cfdisk [options] <disk>
