@@ -1,5 +1,5 @@
 # InitProgramming
 
 <center>
-# This Is Summer Camp Task's 
+# Summer Camp task's / Challenges / github Repo
 </center>
