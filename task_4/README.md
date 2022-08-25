@@ -51,21 +51,12 @@ The fdisk utility is the classical text-mode utility. The cfdisk utilitity gives
 
 
 
-
-
-
-
 <h3 align="left">2,cfdisk </h3>
   <p align= "center">
          Display or manipulate a disk partition table
       
  </p>
 
-
-
-
-      
-      
       
       root@kali:~# cfdisk -h
       Usage: cfdisk [options] <disk>
@@ -79,4 +70,6 @@ The fdisk utility is the classical text-mode utility. The cfdisk utilitity gives
       -r, --read-only          forced open cfdisk in read-only mode
       -h, --help               display this help
       -V, --version            display version
+
+
 
