@@ -1,7 +1,7 @@
 <h1 align="center">
       Linux Core Utilities
 </h1>
-<h3 align="left"> fdisk </h3>
+<h3 align="left"> 1,fdisk </h3>
 <p>
     This package contains the classic fdisk, sfdisk and cfdisk partitioning utilities from the util-linux suite.
 
